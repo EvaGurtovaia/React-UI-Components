@@ -1,0 +1,20 @@
+.headertitle {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 15px;
+}
+.header {
+    font-size: 20px;
+    padding-right: 35px;
+}
+.text {
+    font-size: 16px;
+    color: lightgray;
+    padding-right: 35px;
+
+}
+.imageHeader {
+    width: 10%;
+}
