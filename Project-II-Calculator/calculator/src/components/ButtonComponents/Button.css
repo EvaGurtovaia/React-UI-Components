@@ -1,0 +1,26 @@
+.actionBut{
+    min-width: 100px;
+    min-height:  80px;
+    background-color: darkred;
+    color: white;
+    border: 1px solid grey;
+    font-size: 50px;
+    text-align: center;
+    font-weight: lighter;
+}
+.myButtons {
+    display: flex;
+    flex-direction: column;
+    min-width: 100px;
+    min-height: 80px;
+    border: 1px solid grey;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+.very {
+    font-weight: lighter;
+}
+.special {
+    width: 100%;
+}

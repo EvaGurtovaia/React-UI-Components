@@ -1,0 +1,21 @@
+.wholeCalc {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+.numAction {
+    display: flex;
+    flex-direction: row;
+}
+.numbers {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-grow: 3;
+
+
+}
+.action { display: flex;
+    flex-direction: column;
+
+}
